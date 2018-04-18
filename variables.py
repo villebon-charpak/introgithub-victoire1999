@@ -24,6 +24,8 @@
 
 # ... Écrivez votre code ici ...
 
+
+
 print(ma_variable)
 
 
@@ -51,22 +53,27 @@ texte = "Salut !"
 
 # ... Écrivez votre code ici ...
 
-nombre = 2
+nombre = 2 # ne pas toucher à cette ligne !
+
+
 
 print(nombre)
 
 
 # Exercice 1.4
 #
-#     Définir une variable appelée nombre_de_clients à la valeur 0 (aucun client au départ). Ajouter 2 puis retrancher 1 (2 clients entrent, puis un client sort). Afficher le nombre de clients restants.
+#   Définir une variable appelée nombre_de_clients à la valeur 0 (aucun client au départ). Ajouter 2 puis retrancher 1 (2 clients entrent, puis un client sort). Afficher le nombre de clients restants.
 #
-#     Savoirs-faires :
+#   Savoirs-faires :
 #         créer un variable et lui affecter une valeur
 #         faire des opérations sur des variables
 #         afficher des variables
 
 
 # ... Écrivez votre code ici ...
+
+
+
 
 
 
