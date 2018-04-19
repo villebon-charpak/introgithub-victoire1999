@@ -39,7 +39,7 @@ print(ma_variable)
 
 # ... Écrivez votre code ici ...
 
-texte = "Salut !"
+texte = "Salut à vous!"
 
 
 
